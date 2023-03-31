@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  :wave: Welcome my github profile !
+  :wave: Welcome my github profile !<br/>
+  아주 천천히 꾸미는중 입니다...
    <br/>
    <br/>
   
