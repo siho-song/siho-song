@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   ####  :clipboard: Once I've Used 
   <br/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/NoSQL-007396?style=for-the-badge&logo=NoSQL&logoColor=white">
   <img src="https://img.shields.io/badge/PYTHON-1572B6?style=for-the-badge&logo=PYTHON&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
